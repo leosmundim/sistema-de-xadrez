@@ -14,7 +14,7 @@ public class Testes {
 		
 		ChessMatch chessMatch = new ChessMatch();
 		
-		UI.printMatch(chessMatch);
+
 		
 
 	}
